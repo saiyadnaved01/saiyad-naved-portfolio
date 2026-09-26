@@ -1,0 +1,11 @@
+node_modules
+dist
+.DS_Store
+.env
+
+# Backend runtime data (has its own .gitignore too, this is a safety net)
+server/node_modules
+server/.env
+server/data/db.json
+server/uploads/*
+!server/uploads/.gitkeep
