@@ -34,7 +34,7 @@ export default function Nav() {
       >
         <div className="max-w-[1120px] mx-auto px-6 flex items-center justify-between">
           <a href="#home" className="font-head font-semibold text-lg">
-            {profile.name?.split(' ')[0] || 'Portfolio'}<span className="grad-text">.</span>
+            {profile.name?.split(' ')[0] || 'Portfolio'} Naved <span className="grad-text"> ✔︎</span>
           </a>
           <ul className="hidden md:flex items-center gap-8">
             {navItems.map(({ id, label }) => (

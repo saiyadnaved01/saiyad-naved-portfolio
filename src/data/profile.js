@@ -13,7 +13,7 @@ export const profile = {
     { k: 'LOCATION', v: 'Amravati, Maharashtra' },
     { k: 'DEGREE', v: 'B.Tech, Computer Science' },
     { k: 'GRADUATING', v: '2027' },
-    { k: 'FOCUS', v: 'Full-Stack · Databases' },
+    { k: 'FOCUS', v: 'Full-Stack · Automation' },
   ],
   contact: {
     email: 'saiyad.naved01@gmail.com',
@@ -33,8 +33,8 @@ export const skills = [
   { category: 'Web Technologies', items: ['HTML', 'CSS', 'React', 'Node.js'] },
   { category: 'Database', items: ['MySQL', 'RDBMS'] },
   { category: 'Cloud & Automation', items: ['Cloud Computing Basics', 'Automation Concepts'] },
-  { category: 'Tools & Platforms', items: ['Git', 'GitHub', 'VS Code', 'MS Office'] },
-  { category: 'Core Concepts', items: ['Data Structures', 'DBMS', 'OOP', 'OS', 'Computer Networks', 'SDLC'] },
+  { category: 'Tools & Platforms', items: ['Git', 'GitHub', 'VS Code'] },
+  { category: 'Core Concepts', items: ['Data Structures', 'DBMS', 'OOP', 'OS', 'Computer Networks'] },
 ]
 
 export const projects = [
